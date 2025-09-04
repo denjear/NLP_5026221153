@@ -1,4 +1,4 @@
-# 🧠 Natural Language Processing (NLP) Semester Project
+# 🧠 Natural Language Processing (NLP) 
 
 This repository contains the work I developed throughout my **Natural Language Processing (NLP) lecture project**.  
 It includes the datasets used and Jupyter notebooks that document my experiments and learning progress across the semester.
